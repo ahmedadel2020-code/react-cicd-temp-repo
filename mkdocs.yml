@@ -1,0 +1,8 @@
+site_name: "react-cicd-temp"
+site_description: "react-cicd-temp de"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
